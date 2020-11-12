@@ -1,5 +1,52 @@
 [
     {
+        "title": "Nike(ナイキ) メンズコートセール",
+        "subtitle": "最大 40% Off + 更に 20% off + 送料無料",
+        "titleImg": "https://static.nike.com/a/images/c_limit,w_318,f_auto/t_product_v1/8bf7bdf6-af59-491f-ae73-5a37b8a45f88/sportswear-down-fill-windrunner-mens-sport-bomber-C24jrV.jpg",
+        "infoList": "Nike store man より最大 40% Off + 更に 20% off;米国内のみ送料無料;こちらのセール11月13日まで",
+        "link": "https://www.nike.com/w/mens-flash-sale-jackets-vests-2npkfz50r7yznik1?cid=4942550&cp=usns_aff_nike__PID_2165238_dealmoon.com&cjevent=87a5c41124b011eb802500c60a1c0e14",
+        "reference": "Nike",
+        "itemList": []
+    },
+    {
+        "title": "一足先に Samsung(サムソン) よりブラックフライデーセール",
+        "subtitle": "Galaxy S20 $240～,Galaxy Tablet $199～",
+        "titleImg": "https://imgcache.dealmoon.com/thumbimg.dealmoon.com/dealmoon/e00/e7b/31a/46a2c14384b9d3d16e274d2.jpg_300_300_2_412f.jpg",
+        "infoList": "米国内のみ送料無料",
+        "link": "https://www.samsung.com/us/shop/all-deals/?&cid=opmc-ecomm-pfs-ha-us-admp-na-07062020-169985-&gclid=CPHsoJS4_OwCFaYBfwodE1cGTA&gclsrc=ds",
+        "reference": "Samsung",
+        "itemList": [
+            {
+                "img": "https://imgcache.dealmoon.com/thumbimg.dealmoon.com/dealmoon/0d4/3d3/391/a92db7b2c6d2b314db367f0.jpg_300_300_2_fd15.jpg",
+                "o_price": 699.99,
+                "price": 249.99,
+                "link": "https://www.samsung.com/us/shop/all-deals/?&cid=opmc-ecomm-pfs-ha-us-admp-na-07062020-169985-&gclid=CPHsoJS4_OwCFaYBfwodE1cGTA&gclsrc=ds"
+            },
+            {
+                "img": "https://imgcache.dealmoon.com/thumbimg.dealmoon.com/dealmoon/404/4a3/b1d/7edeaab6ead8a5484d57900.jpg_300_300_2_6296.jpg",
+                "o_price": 649.99,
+                "price": 199.99,
+                "link": "https://www.samsung.com/us/shop/all-deals/?&cid=opmc-ecomm-pfs-ha-us-admp-na-07062020-169985-&gclid=CPHsoJS4_OwCFaYBfwodE1cGTA&gclsrc=ds"
+            },
+            {
+                "img": "https://imgcache.dealmoon.com/thumbimg.dealmoon.com/dealmoon/0e1/dea/a0e/bad152aa400abd702e8967e.jpg_300_300_2_6c59.jpg",
+                "o_price":1499.99,
+                "price": 1199.99,
+                "link": "https://www.samsung.com/us/shop/all-deals/?&cid=opmc-ecomm-pfs-ha-us-admp-na-07062020-169985-&gclid=CPHsoJS4_OwCFaYBfwodE1cGTA&gclsrc=ds"
+            }
+
+        ]
+    },
+    {
+        "title": "QCY より T1 bluetooth headphoe が大価格中！今だけ！",
+        "subtitle": "$9.80",
+        "titleImg": "QCY T1 bluetooth headphone が今だけ $9.80;$25 以上お買い上げの方につき送料無料",
+        "infoList": "Amazon",
+        "link": "https://www.amazon.com/dp/B07KGC798L?m=A26W6NHQPDUQ0&ref=mpc_asin_image",
+        "reference": "Amazon",
+        "itemList": []
+    },
+    {
         "title":"任天堂 Nintendo Switch 32GB",
         "subtitle": "$299.99",
         "titleImg": "https://imgcache.dealmoon.com/thumbimg.dealmoon.com/dealmoon/15f/875/cfa/1a55e40146fd5f042b27c3d.jpg_300_300_2_75c8.jpg",
