@@ -1,0 +1,19 @@
+{
+	"MainBanner":{
+		"title":"ブラックフライデー情報",
+		"img":"https://cnet3.cbsistatic.com/img/2Id9XGv8Nsl99S2rV06r4WNWgqk=/1200x630/2020/10/02/ff037b25-08c5-44ac-b878-07ec601afe87/black-friday-8130.jpg",
+		"link":"https://www.cocopons.com"
+	},
+	"AboveBanner":{
+		"title":"Macy'sブラックフライデー情報",
+		"img":"https://ewscripps.brightspotcdn.com/a3/16/374d33934892be436212b8db11e8/macys.png",
+		"link":"https://www.macys.com/p/black-friday/?tagid=4291183&cm_mmc=Connexity_Si-_-n-_-n-_-n&m_sc=sem&m_sb=connexity&m_tp=PLA&CAWELAID=120156340009470470&m_ac=Connexity_si&m_cn=n"
+	},
+	"BelowBanner":{
+		"title":"Sephora割引情报",
+		"img":"https://imgcache.dealmoon.com/thumbimg.dealmoon.com/dealmoon/c78/3fe/240/3c77de04ad71afeed404911.jpg_300_300_2_e5bb.jpg",
+		"link":"https://www.sephora.com/beauty/holiday-sale?icid2=cyber1120_lp_moreways_holidayguide_link_UFE"
+
+	}
+
+}
