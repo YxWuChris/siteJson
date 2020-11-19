@@ -1,5 +1,89 @@
 [
     {
+            "title":"Urban Outfitters より史上最大セール！！",
+            "subtitle":"最大 80% Off + 更に期間限定の 40% Off",
+            "titleImg":"https://imgcache.dealmoon.com/thumbimg.dealmoon.com/dealmoon/243/2fe/eb8/8cc5e22f54d5a404afa7049.jpg_600_600_2_736e.jpg",
+            "infoList":"最大 80% Off;期間限定 40% Off;$50 以上お買い上げの方のみ送料無料",
+            "link":"https://www.urbanoutfitters.com/sale?utm_medium=affiliates&utm_source=LS&utm_campaign=dealmoon.com&utm_term=846349&utm_content=1&ranMID=43176&ranEAID=Jv%2av1%2FWldzg&ranSiteID=Jv.v1_Wldzg-g5VGHkCIrBvLeiaNSGy1Sg",
+            "reference":"Urban Outfitters",
+            "itemList":[
+                {
+                    "img":"https://imgcache.dealmoon.com/thumbimg.dealmoon.com/dealmoon/8e7/e26/aa2/6c07f4a2201341f854d0436.jpg_300_300_2_e84b.jpg",
+                    "o_price":59.00,
+                    "price":5.99,
+                    "link":"https://www.urbanoutfitters.com/shop/uo-santorini-cupro-tie-front-romper?category=womens-clothing-sale&color=001&quantity=1&type=REGULAR&utm_medium=affiliates&utm_source=LS&utm_campaign=dealmoon.com&utm_term=846349&utm_content=1&ranMID=43176&ranEAID=Jv%2av1%2FWldzg&ranSiteID=Jv.v1_Wldzg-5sThJ4xzXeWymKhj7Hh4Yw"
+                },
+                {
+                    "img":"https://imgcache.dealmoon.com/thumbimg.dealmoon.com/dealmoon/7f0/d14/a55/0a772462ffc6b8c19925f99.jpg_300_300_2_157a.jpg",
+                    "o_price":89.00,
+                    "price":26.99,
+                    "link":"https://www.urbanoutfitters.com/shop/bdg-harlow-cropped-shirt-jacket?category=womens-clothing-sale&color=004&quantity=1&type=REGULAR&utm_medium=affiliates&utm_source=LS&utm_campaign=dealmoon.com&utm_term=846349&utm_content=1&ranMID=43176&ranEAID=Jv%2av1%2FWldzg&ranSiteID=Jv.v1_Wldzg-2lLPFO.4WqtM4JoYB6.jOw"
+                },
+                {
+                    "img":"https://imgcache.dealmoon.com/thumbimg.dealmoon.com/dealmoon/828/097/237/907f6cedd48aed875d0bbb0.jpg_300_300_2_8604.jpg",
+                    "o_price":49.99,
+                    "price":11.99,
+                    "link":"https://www.urbanoutfitters.com/shop/uo-ringo-brushed-cardigan?category=womens-clothing-sale&color=085&quantity=1&type=REGULAR&utm_medium=affiliates&utm_source=LS&utm_campaign=dealmoon.com&utm_term=846349&utm_content=1&ranMID=43176&ranEAID=Jv%2av1%2FWldzg&ranSiteID=Jv.v1_Wldzg-HlRnm_1JxWihJFfOcIrmDw"
+                }
+            ]
+        },
+        {
+            "title":"Belk ブラックフライデーセール",
+            "subtitle":"最大 60% Off + ビューティーアイテム 20% Off",
+            "titleImg":"https://imgcache.dealmoon.com/thumbimg.dealmoon.com/dealmoon/38e/170/b73/136fff1782bff33cb3dd79d.jpg_300_300_2_db0f.jpg",
+            "infoList": "最大 60% Off;[FABULOUS] こちらのクーポンコードでビューティーアイテムが更に 20% Off;$49 以上お買い上げの方のみ送料無料",
+            "link":"https://www.belk.com/search/?prefn1=eventCodeID&prefv1=20BFDB42&cm_mmc=CSE-Shopzilla-_-_-UTP&CAWELAID=500001660025462698&szredirectid=16058284195600996458410080301008005",
+            "reference":"Belk",
+            "itemList":[
+                {
+                    "img":"https://imgcache.dealmoon.com/thumbimg.dealmoon.com/dealmoon/f8d/b18/a87/d97cd0278168dffc4fca17c.jpg_300_300_2_fbd4.jpg",
+                    "o_price":60.00,
+                    "price":18.00,
+                    "link":"https://www.belk.com/p/columbia-womens-benton-springs-full-zip-fleece-jacket/1801546WOMEN1953B3.html?dwvar_1801546WOMEN1953B3_color=030100565958&cm_mmc=CSE-Shopzilla-_-_-UTP&CAWELAID=500001660025462698&szredirectid=16058286700491917002610070301008005"
+                },
+                {
+                    "img":"https://imgcache.dealmoon.com/thumbimg.dealmoon.com/dealmoon/4c0/8d9/84d/0bbfa7b708c54c4e206f50e.jpg_300_300_2_695a.jpg",
+                    "o_price":172.00,
+                    "price":137.60,
+                    "link":"https://www.belk.com/p/lancome--st-jude-genifique-bundle-1.69-oz-/5900093S43882.html?cm_mmc=CSE-Shopzilla-_-_-UTP&CAWELAID=500001660025462698&szredirectid=16058287212920809948310070302008005"
+                },
+                {
+                    "img":"https://imgcache.dealmoon.com/thumbimg.dealmoon.com/dealmoon/ce8/324/0a9/7ac3c5d28a19ee6e2116a05.jpg_300_300_2_62c0.jpg",
+                    "o_price":69.00,
+                    "price":19.99,
+                    "link":"https://www.belk.com/p/true-craft-korri-combat-boots/2900853TCKORRI.html?cm_mmc=CSE-Shopzilla-_-_-UTP&CAWELAID=500001660025462698&szredirectid=16058287696430794079410080302008005"
+                }
+            ]
+        },
+        {
+            "title":"Macy's より Levi's がセール中",
+            "subtitle":"40% Off",
+            "titleImg":"https://imgcache.dealmoon.com/thumbimg.dealmoon.com/dealmoon/cd8/3fe/e21/7b1b99c48ef54dcd57e0962.jpg_600_600_2_553c.jpg",
+            "infoList": "Macy's より Levi's アイテムが 40% Off;$25 以上お買い上げの方のみ送料無料;こちらのセール12月1日まで",
+            "link":"https://www.macys.com/shop/featured/levis-?cm_mmc=Connexity_Si-_-n-_-n-_-n&m_sc=sem&m_sb=connexity&m_tp=PLA&CAWELAID=120156340009470470&m_ac=Connexity_si&m_cn=n",
+            "reference":"Macy's",
+            "itemList":[
+                {
+                    "img":"https://imgcache.dealmoon.com/thumbimg.dealmoon.com/dealmoon/437/746/2cd/c19b9a0b210b78ede71ecb1.jpg_300_300_2_3fa2.jpg",
+                    "o_price":59.50,
+                    "price":35.70,
+                    "link":"https://www.macys.com/shop/product/mens-levis-cole-fleece?ID=11256538&cm_mmc=Connexity_Si-_-n-_-n-_-n&m_sc=sem&m_sb=connexity&m_tp=PLA&CAWELAID=120156340009470470&m_ac=Connexity_si&m_cn=n"
+                },
+                {
+                    "img":"https://imgcache.dealmoon.com/thumbimg.dealmoon.com/dealmoon/5ce/ca2/38a/c19ffa6125e0b581bb3b863.jpg_300_300_2_82ae.jpg",
+                    "o_price":98.00,
+                    "price":58.80,
+                    "link":"https://www.macys.com/shop/product/levis-fleece-trim-denim-trucker-jacket?ID=11403352&cm_mmc=Google_adnet-_-Macys-Branded_Macys-Branded-_-shopping-089732409508901510630149612864135981879-_-kclickid_1c57fa81-4c9d-4720-a6bc-a58eee6c7596_hoo_mobile_us_web&type=pid|$CLICK_ID$|1c57fa81-4c9d-4720-a6bc-a58eee6c7596-1c57fa81-4c9d-4720-a6bc-a58eee6c7596&ADNETID=089732409508901510630149612864135981879&m_sc=sem&m_sb=Ad.net&m_tp=Search&m_ac=Google_adnet&m_ag=macys%20branded&m_cn=macys%20branded&m_pi=kclickid_1c57fa81-4c9d-4720-a6bc-a58eee6c7596_089732409508901510630149612864135981879"
+                },
+                {
+                    "img":"https://imgcache.dealmoon.com/thumbimg.dealmoon.com/dealmoon/1e4/ac1/47a/a5f160a9c14d6fccc5a1b9a.jpg_300_300_2_59bc.jpg",
+                    "o_price":69.50,
+                    "price":41.70,
+                    "link":"https://www.macys.com/shop/product/levis-womens-711-skinny-4-way-stretch-jeans?ID=2872585&tdp=cm_app%7EzMCOM-MMEW%7Excm_zone%7EzPDP_ZONE_A%7Excm_choiceId%7EzcidM11MMD-69360aa2-88d5-4c72-856f-89c7a5f9ae44%2540H7%2540customers%252Balso%252Bshopped%2524118%25242872585%7Excm_pos%7EzPos1%7Excm_srcCatID%7Ez118&cm_mmc=Connexity_Si-_-n-_-n-_-n&m_sc=sem&m_sb=connexity&m_tp=PLA&CAWELAID=120156340009470470&m_ac=Connexity_si&m_cn=n"
+                }
+            ]
+    },
+    {
         "title": "YSLのリップ・口紅",
         "subtitle": "一点購入につきもう一点無料 + 送料無料",
         "titleImg": "https://www.yslbeautyus.com/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-ysl-master-catalog/default/dw81e6fb4b/images/RPCMatteslim/3614272140011.jpg?sw=640&sh=846&sm=fit&q=70",
