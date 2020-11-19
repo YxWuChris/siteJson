@@ -1,5 +1,69 @@
 [
     {
+            "title":"ワンちゃん・ネコちゃん　おやつ",
+            "subtitle":"最大 13% Off",
+            "titleImg":"https://imgcache.dealmoon.com/thumbimg.dealmoon.com/dealmoon/e68/f8c/4e5/79272f6856e2e4169fa9add.jpg_600_600_2_24b8.jpg",
+            "infoList":"Chewy よりペット用おやつがセール中;$49 以上お買い上げの方のみ送料無料",
+            "link":"https://www.chewy.com/f/petcakes_f1v256710?utm_source=connexity&utm_medium=cpc",
+            "reference":"Chewy",
+            "itemList":[
+                {
+                    "img":"https://imgcache.dealmoon.com/thumbimg.dealmoon.com/dealmoon/c1b/9c2/c2f/9fb10d3ff08f9dc96530420.jpg_300_300_2_1d25.jpg",
+                    "price":8.99,
+                    "link":"https://www.chewy.com/petcakes-turkey-flavor-microwavable/dp/178067?utm_source=connexity&utm_medium=cpc"
+                },
+                {
+                    "img":"https://imgcache.dealmoon.com/thumbimg.dealmoon.com/dealmoon/45f/fd3/2f4/85834552911745e16801958.jpg_300_300_2_d369.jpg",
+                    "o_price":10.31,
+                    "price":8.99,
+                    "link":"https://www.chewy.com/petcakes-spice-flavor-microwavable/dp/178065?utm_source=connexity&utm_medium=cpc"
+                },
+                {
+                    "img":"https://imgcache.dealmoon.com/thumbimg.dealmoon.com/dealmoon/df9/007/060/8f2341afc49bffe78f1ed07.jpg_300_300_2_a2bd.jpg",
+                    "o_price":9.99,
+                    "price":9.49,
+                    "link":"https://www.chewy.com/petcakes-yumyum-bones-pineapple/dp/265922?utm_source=connexity&utm_medium=cpc"
+                }
+            ]
+        },
+        {
+            "title":"OshKosh BGosh(オシュコシュ　ビゴッシュ)よりブラックフライデーセール",
+            "subtitle":"最大目玉商品が 50～60% Off",
+            "titleImg":"https://imgcache.dealmoon.com/thumbimg.dealmoon.com/dealmoon/d2d/06d/f83/eb4bfaeb4e8dccd707bcbb1.png_300_300_2_2c4d.png",
+            "infoList": "11月19日～ブラックフライデーセール開始！;11月19日～在庫一掃セールで更に 20% Off;$35 以上お買い上げの方のみ送料無料",
+            "link":"https://www.oshkosh.com/home?id=oshkosh&irgwc=1&clickid=wvdTU-18nwaN2c43uKWkbU1xUkEzK72dyXFI3A0&irgwc=1&cm_mmc=IROshkosh-_-PriceTrace%20LLC-_-16635-_-392527",
+            "reference":"OshKosh BGosh",
+            "itemList":[
+                {
+                    "img":"https://imgcache.dealmoon.com/thumbimg.dealmoon.com/dealmoon/e35/3b4/1ea/2e10fc733587d787c50cc38.jpg_300_300_2_f122.jpg",
+                    "o_price":40.00,
+                    "price":24.00,
+                    "link":"https://www.oshkosh.com/oshkosh-toddler-girl-sweaters/V_2K192710.html?irgwc=1&clickid=wvdTU-18nwaN2c43uKWkbU1xUkEzK73xyXFI3A0&irgwc=1&cm_mmc=IROshkosh-_-PriceTrace%20LLC-_-16635-_-392527"
+                },
+                {
+                    "img":"https://imgcache.dealmoon.com/thumbimg.dealmoon.com/dealmoon/fb3/257/7f0/a8e57a2c10de0ec48287c35.jpg_300_300_2_0962.jpg",
+                    "o_price":30.00,
+                    "price":15.00,
+                    "link":"https://www.oshkosh.com/oshkosh-baby-girl-accessories-socks-and-tights/V_2I956310.html?irgwc=1&clickid=wvdTU-18nwaN2c43uKWkbU1xUkEzK7UdyXFI3A0&irgwc=1&cm_mmc=IROshkosh-_-PriceTrace%20LLC-_-16635-_-392527"
+                },
+                {
+                    "img":"https://imgcache.dealmoon.com/thumbimg.dealmoon.com/dealmoon/ed3/e00/b84/98168a8bc535c3b56d4d418.jpg_300_300_2_ccfc.jpg",
+                    "o_price":40.00,
+                    "price":20.00,
+                    "link":"https://www.oshkosh.com/oshkosh-baby-girl-shorts-skirts/V_1J017610.html?irgwc=1&clickid=wvdTU-18nwaN2c43uKWkbU1xUkEzK7QxyXFI3A0&irgwc=1&cm_mmc=IROshkosh-_-PriceTrace%20LLC-_-16635-_-392527"
+                }
+            ]
+        },
+        {
+            "title":"Joe's New Balance Outlet よりメンズ 574 Essentials シューズ",
+            "subtitle":"49% Off + 送料無料",
+            "titleImg":"https://imgcache.dealmoon.com/thumbimg.dealmoon.com/dealmoon/f5c/e59/4ea/2dcde5054d54b4e42753e59.jpg_300_300_2_cb78.jpg",
+            "infoList": "49% Off;送料無料;こちらのセール11月23日まで",
+            "link":"https://www.joesnewbalanceoutlet.com/product/ml574v2-26214-m/ml574erg?utm_source=LS&utm_medium=affiliate&utm_content=Jv*v1%2FWldzg&utm_campaign=Jv*v1%2FWldzg&ranMID=39757&ranEAID=Jv*v1%2FWldzg&ranSiteID=Jv.v1_Wldzg-aHS_u0Lz3z05jugLVvrdOw",
+            "reference":"Joe's New Balance",
+            "itemList":[]
+        },
+    {
             "title":"Lifestyle Solutions より Omaha ゲーミングチェアー",
             "subtitle":"今だけ $69.00 (原価$130.99)",
             "titleImg":"https://imgcache.dealmoon.com/fsvrugc.dealmoon.com/ugc/0a9/09b/fff/b6017c8ce6fedcba562fdb0.jpg_300_300_2_6167.jpg",
