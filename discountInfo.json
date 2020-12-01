@@ -21,8 +21,8 @@
                     "link":"https://www.gilt.com/boutique/product/171743/116147159/?deeplink=false&subid=61616&utm_source=EEAN&partner=ebay&utm_content=61616&utm_medium=affiliate&pos=22&creative=2-384693&utm_campaign=gilt&clickId=3383847365&dsi=DIR--a17f6913-74c2-467a-a823-3c7a393e6964"
                 },
                 {
-                    "img":"595.00",
-                    "o_price":"https://imgcache.dealmoon.com/thumbimg.dealmoon.com/dealmoon/230/d86/e76/59f509c5504d99913183ab4.jpg_300_300_2_8674.jpg,
+                    "img":"https://imgcache.dealmoon.com/thumbimg.dealmoon.com/dealmoon/230/d86/e76/59f509c5504d99913183ab4.jpg_300_300_2_8674.jpg",
+                    "o_price":595.00,
                     "price":479.99,
                     "link":"https://www.gilt.com/boutique/product/171743/116209487/?deeplink=false&subid=61616&utm_source=EEAN&partner=ebay&utm_content=61616&utm_medium=affiliate&pos=16&creative=2-384693&utm_campaign=gilt&clickId=3383849877&dsi=DIR--3a2c301f-51ab-433e-b629-5876fa7315c1"
                 }
