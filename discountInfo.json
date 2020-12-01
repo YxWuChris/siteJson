@@ -1,5 +1,54 @@
 [
       {
+            "title":"GILT より UGG Canada & Goose セール",
+            "subtitle":"最大 70% Off",
+            "titleImg":"https://imgcache.dealmoon.com/thumbimg.dealmoon.com/dealmoon/629/0df/eff/5f3554cb3cc298d2448f624.png_600_600_2_5ad7.png",
+            "infoList":"GILT より UGG と Canada Goose が最大 70% Off;30 日間限定で送料無料;こちらのセール12月2日まで",
+            "link":"https://www.gilt.com/boutique/171743/?deeplink=false&subid=61616&partner=ebay&utm_medium=affiliate&utm_content=61616&creative=2-384693&utm_campaign=gilt&utm_source=EEAN&clickId=3383771613&dsi=BTQ--ecee5ed5-ac5b-4b13-a1cf-aa81e5731b43",
+            "reference":"GILT",
+            "tag":"fashion", 
+            "itemList":[
+                {
+                    "img":"https://imgcache.dealmoon.com/thumbimg.dealmoon.com/dealmoon/5b4/214/5f4/554297acf1b58b46db9670f.jpg_300_300_2_c6b1.jpg",
+                    "o_price":160.00,
+                    "price":108.99,
+                    "link":"https://www.gilt.com/boutique/product/171743/116736325/?deeplink=false&subid=61616&utm_source=EEAN&partner=ebay&utm_content=61616&utm_medium=affiliate&pos=3&creative=2-384693&utm_campaign=gilt&clickId=3383844639&dsi=DIR--cd178d77-3e09-4dab-b899-9e7f375aef59"
+                },
+                {
+                    "img":"https://imgcache.dealmoon.com/thumbimg.dealmoon.com/dealmoon/2e9/63e/66c/b86614c0c2fd181911aa648.jpg_300_300_2_92ff.jpg",
+                    "o_price":595.00,
+                    "price":489.99,
+                    "link":"https://www.gilt.com/boutique/product/171743/116147159/?deeplink=false&subid=61616&utm_source=EEAN&partner=ebay&utm_content=61616&utm_medium=affiliate&pos=22&creative=2-384693&utm_campaign=gilt&clickId=3383847365&dsi=DIR--a17f6913-74c2-467a-a823-3c7a393e6964"
+                },
+                {
+                    "img":"595.00",
+                    "o_price":"https://imgcache.dealmoon.com/thumbimg.dealmoon.com/dealmoon/230/d86/e76/59f509c5504d99913183ab4.jpg_300_300_2_8674.jpg,
+                    "price":479.99,
+                    "link":"https://www.gilt.com/boutique/product/171743/116209487/?deeplink=false&subid=61616&utm_source=EEAN&partner=ebay&utm_content=61616&utm_medium=affiliate&pos=16&creative=2-384693&utm_campaign=gilt&clickId=3383849877&dsi=DIR--3a2c301f-51ab-433e-b629-5876fa7315c1"
+                }
+            ]
+        },
+        {
+            "title":"COACH outlet バッグ・服・アクセサリー",
+            "subtitle":"70% Off + 更に 15% Off + $250 以上で無料カードケース",
+            "titleImg":"https://imgcache.dealmoon.com/thumbimg.dealmoon.com/dealmoon/20a/ac5/c5a/799f27e3db09baf3dbe5600.jpg_600_600_2_7816.jpg",
+            "infoList": "COACH outlet より最大 70% Off;[SAVE15] こちらのクーポンコードで更に 15% Off;[GIFTPLS] こちらのクーポンコードで無料カードケースプレゼント;送料無料",
+            "link":"https://www.coachoutlet.com/default?ogmap=AFF|RTN|Jv*v1%2FWldzg|STND|MULTI|SITEWIDE|||10|827905|||US&utm_source=dealmoon.com&utm_medium=aff&utm_campaign=827905&utm_content=1&utm_term=1851970&ranMID=45892&ranEAID=Jv*v1%2FWldzg&ranSiteID=Jv.v1_Wldzg-rJTkwt0.j7PjPf8Bq3pLiw",
+            "reference":"COACH outlet",
+            "tag":"fashion",
+            "itemList":[]
+        },
+        {
+            "title":"SkinCareRX 限定アイテムセール",
+            "subtitle":"最大 50% Off",
+            "titleImg":"https://imgcache.dealmoon.com/thumbimg.dealmoon.com/dealmoon/2be/9b6/273/f5aab66847aab772762fc4a.jpg_300_300_2_7a6e.jpg",
+            "infoList": "[FLASH50] こちらのクーポンコードで対象商品が 50% Off;送料無料",
+            "link":"https://www.skincarerx.com/black-friday/50-off.list?affil=awin&utm_content=http%3A%2F%2Fwww.dealmoon.com&utm_term=Shopping+Directory&utm_source=AWin-155506&utm_medium=affiliate&utm_campaign=AffiliateWin&awc=15341_1606783728_a06ed78d7a06f762a33476b1b9405526",
+            "reference":"SkinCareRX",
+            "tag":"makeup",
+            "itemList":[]
+      },
+      {
             "title":"Nutribullet ブラックフライデーセール",
             "subtitle":"最大 25% Off",
             "titleImg":"https://imgcache.dealmoon.com/thumbimg.dealmoon.com/dealmoon/26c/3d5/5cd/dda8f46f22f1fbaa119ee00.jpg_600_600_2_32a9.jpg",
