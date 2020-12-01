@@ -1,5 +1,73 @@
 [
       {
+            "title":"Macy's Family & Friend セール",
+            "subtitle":"最大 30% Off",
+            "titleImg":"https://imgcache.dealmoon.com/thumbimg.dealmoon.com/dealmoon/49f/8fa/397/2edaa55af2bc0be1dc3ae73.png_600_600_2_1a6f.png",
+            "infoList":"[FRIEND] こちらのクーポンコードで最大 30% Off;$45 以上のお買い上げで Estee Lauder beauty Blockbuster が $75 (原価 $455);$42 以上のお買い上げで Lancome Beauty Box が $72.55 (原価 $555.00);$75 以上のお買い上げで Genifique Eye Cream が無料(原価 $67);Tonique Confort Toner 13.4oz お買い上げで Deluxe Creme-Mousse Confort Cleanser が無料(原価 $75)";$25 以上のお買い上げで送料無料;こちらのセール12月9日まで,
+            "link":"https://www.macys.com/?cm_mmc=Connexity_Si-_-n-_-n-_-n&m_sc=sem&m_sb=connexity&m_tp=PLA&CAWELAID=120156340009470470&m_ac=Connexity_si&m_cn=n",
+            "reference":"Macy's",
+            "tag":"makeup", 
+            "itemList":[]
+        },
+        {
+            "title":"Sandro Paris サイバーマンデーセール",
+            "subtitle":"最大 80% Off",
+            "titleImg":"https://imgcache.dealmoon.com/thumbimg.dealmoon.com/dealmoon/bf6/52f/4a4/9301c0ee0dc37f2fd29efee.jpg_600_600_2_74d6.jpg",
+            "infoList": "最大 80% Off;送料無料",
+            "link":"https://us.sandro-paris.com/en/womens/flash-sale/see-all/?utm_source=sas&utm_medium=affiliate&utm_term=482314&sscid=c1k4_svs6",
+            "reference":"Sandro Paris",
+            "tag":"fashion",
+            "itemList":[
+                {
+                    "img":"https://imgcache.dealmoon.com/thumbimg.dealmoon.com/dealmoon/f6d/731/13e/68030839cd0e773e39a6352.jpg_300_300_2_5af1.jpg",
+                    "o_price":265.00,
+                    "price":79.50,
+                    "link":"https://us.sandro-paris.com/en/en/womens/flash-sale/skirts/short-knit-skirt/SFPJU00147.html?dwvar_SFPJU00147_color=20&utm_source=sas&utm_medium=affiliate&utm_term=482314&sscid=c1k4_t0qr"
+                },
+                {
+                    "img":"https://imgcache.dealmoon.com/thumbimg.dealmoon.com/dealmoon/3bd/7e4/f6a/d2143d07887543fa0ef95c6.jpg_300_300_2_9c59.jpg",
+                    "o_price":415.00,
+                    "price":103.75,
+                    "link":"https://us.sandro-paris.com/en/womens/flash-sale/dresses/jacquard-short-wraparound-dress/SFPRO00549.html?dwvar_SFPRO00549_color=20&utm_source=sas&utm_medium=affiliate&utm_term=482314&sscid=c1k4_t1xu"
+                },
+                {
+                    "img":"https://imgcache.dealmoon.com/thumbimg.dealmoon.com/dealmoon/22d/90d/8af/b477e0ef6bc4d3cbed08b31.jpg_300_300_2_24d0.jpg",
+                    "o_price":415.00,
+                    "price":103.75,
+                    "link":"https://us.sandro-paris.com/en/womens/flash-sale/dresses/short-lace-shirt-dress/R20659E.html?dwvar_R20659E_color=MULT&utm_source=sas&utm_medium=affiliate&utm_term=482314&sscid=c1k4_t3lh"
+                }
+            ]
+        },
+        {
+            "title":"Adidas サイバーマンデーセール",
+            "subtitle":"最大 40% Off",
+            "titleImg":"https://imgcache.dealmoon.com/thumbimg.dealmoon.com/dealmoon/bd4/34d/8ee/ddb10459e22a5be61ae5bab.jpg_300_300_2_61d3.jpg",
+            "infoList": "[BRINGJOY] こちらのクーポンコードで最大 40% Off;送料無料",
+            "link":"https://www.adidas.com/us/cyber_monday-accessories?clickid=wvdTU-18nwaN2c43uKWkbU1xUkEwe60s00000w0&cm_mmc=AdieAffiliates_IR-_-PriceTrace%20LLC-_-Online%20Tracking%20Link-_-ONLINE_TRACKING_LINK-_-&cm_mmc2=adidas-NA-eCom-Affiliates-_-PriceTrace%20LLC-_-None-None-US-always-on-None-1801&irgwc=1&sort=top-sellers",
+            "reference":"Adidas",
+            "tag":"fashion",
+            "itemList":[
+                {
+                    "img":"https://imgcache.dealmoon.com/thumbimg.dealmoon.com/dealmoon/ae1/c96/5a3/92c092016bea832bc59371e.jpg_300_300_2_b69b.jpg",
+                    "o_price":35.00,
+                    "price":21.00,
+                    "link":"https://www.adidas.com/us/santiago-2-mini-backpack/CM4516.html?clickId=wvdTU-18nwaN2c43uKWkbU1xUkEwb00w00000w0&cm_mmc=AdieAffiliates_IR-_-PriceTrace%20LLC-_-Online%20Tracking%20Link-_-ONLINE_TRACKING_LINK-_-&cm_mmc2=adidas-NA-eCom-Affiliates-_-PriceTrace%20LLC-_-None-None-US-always-on-None-1801&irgwc=1"
+                },
+                {
+                    "img":"https://imgcache.dealmoon.com/thumbimg.dealmoon.com/dealmoon/b10/93c/011/125dfed94c65139e1334060.jpg_300_300_2_cbfd.jpg",
+                    "o_price":26.00,
+                    "price":15.60,
+                    "link":"https://www.adidas.com/us/twilight-3-ballie/EW4644.html?clickId=wvdTU-18nwaN2c43uKWkbU1xUkEwb0zI00000w0&cm_mmc=AdieAffiliates_IR-_-PriceTrace%20LLC-_-Online%20Tracking%20Link-_-ONLINE_TRACKING_LINK-_-&cm_mmc2=adidas-NA-eCom-Affiliates-_-PriceTrace%20LLC-_-None-None-US-always-on-None-1801&irgwc=1"
+                },
+                {
+                    "img":"https://imgcache.dealmoon.com/thumbimg.dealmoon.com/dealmoon/5a3/ebf/4b5/e9edbc3bc6352853a1bb389.jpg_300_300_2_406a.jpg",
+                    "o_price":25.00,
+                    "price":15.00,
+                    "link":"https://www.adidas.com/us/national-festival-crossbody-bag/EV8076.html?clickId=wvdTU-18nwaN2c43uKWkbU1xUkEwb0yA00000w0&cm_mmc=AdieAffiliates_IR-_-PriceTrace%20LLC-_-Online%20Tracking%20Link-_-ONLINE_TRACKING_LINK-_-&cm_mmc2=adidas-NA-eCom-Affiliates-_-PriceTrace%20LLC-_-None-None-US-always-on-None-1801&irgwc=1"
+                }
+            ]
+      },
+      {
             "title":"GILT より UGG Canada & Goose セール",
             "subtitle":"最大 70% Off",
             "titleImg":"https://imgcache.dealmoon.com/thumbimg.dealmoon.com/dealmoon/629/0df/eff/5f3554cb3cc298d2448f624.png_600_600_2_5ad7.png",
