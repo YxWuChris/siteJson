@@ -1,5 +1,73 @@
 [
        {
+            "title":"FARFETCH より KENZO が大セール中",
+            "subtitle":"最大 50% Off",
+            "titleImg":"https://imgcache.dealmoon.com/thumbimg.dealmoon.com/dealmoon/f7e/af0/5d7/3077d154c04d7bd3e5ba103.jpg_300_300_2_4e6c.jpg",
+            "infoList":"FARFETCH より KENZO が 50% Off;送料無料",
+            "link":"https://www.farfetch.com/shopping/women/sale/all/items.aspx?designer=8880&scale=280&view=90&clickref=1101lcXAI2fe&utm_source=dealmoonc&utm_medium=affiliate&utm_campaign=PHUS&utm_term=USNetwork&pid=performancehorizon_int&c=dealmoonc&clickid=1101lcXAI2fe&af_siteid=11l1315&af_sub_siteid=1011l270&af_cost_model=CPA&af_channel=affiliate&is_retargeting=true",
+            "reference":"FARFETCH",
+            "tag":"fashion", 
+            "itemList":[
+                {
+                    "img":"https://imgcache.dealmoon.com/thumbimg.dealmoon.com/dealmoon/328/b56/679/035c7ecc6aa9c04d7eaaa43.jpg_300_300_2_8cb5.jpg",
+                    "o_price":395.00,
+                    "price":265.00,
+                    "link":"https://www.farfetch.com/shopping/women/kenzo-tiger-hooded-sweatshirt-item-15614205.aspx?storeid=11034&clickref=1011lcXpup5u&utm_source=dealmoonc&utm_medium=affiliate&utm_campaign=PHUS&utm_term=USNetwork&pid=performancehorizon_int&c=dealmoonc&clickid=1011lcXpup5u&af_siteid=11l1315&af_sub_siteid=1011l270&af_cost_model=CPA&af_channel=affiliate&is_retargeting=true"
+                },
+                {
+                    "img":"https://imgcache.dealmoon.com/thumbimg.dealmoon.com/dealmoon/9eb/ef3/178/7b9b337ed55a311ded29aa7.jpg_300_300_2_4246.jpg",
+                    "o_price":135.00,
+                    "price":90.00,
+                    "link":"https://www.farfetch.com/shopping/women/kenzo-tiger-print-t-shirt-item-15505866.aspx?storeid=11034&clickref=1101lcXAIqAn&utm_source=dealmoonc&utm_medium=affiliate&utm_campaign=PHUS&utm_term=USNetwork&pid=performancehorizon_int&c=dealmoonc&clickid=1101lcXAIqAn&af_siteid=11l1315&af_sub_siteid=1011l270&af_cost_model=CPA&af_channel=affiliate&is_retargeting=true"
+                },
+                {
+                    "img":"https://imgcache.dealmoon.com/thumbimg.dealmoon.com/dealmoon/b30/f38/dbc/64fc48c528c32bc5cf3b813.jpg_300_300_2_5b6d.jpg",
+                    "o_price":125.00,
+                    "price":94.00,
+                    "link":"https://www.farfetch.com/shopping/women/kenzo-logo-print-beanie-item-15562613.aspx?storeid=9529&clickref=1011lcXpuCpj&utm_source=dealmoonc&utm_medium=affiliate&utm_campaign=PHUS&utm_term=USNetwork&pid=performancehorizon_int&c=dealmoonc&clickid=1011lcXpuCpj&af_siteid=11l1315&af_sub_siteid=1011l270&af_cost_model=CPA&af_channel=affiliate&is_retargeting=true"
+                }
+            ]
+        },
+        {
+            "title":"PETCO ペット用アイテムセール",
+            "subtitle":"30% Off",
+            "titleImg":"https://imgcache.dealmoon.com/thumbimg.dealmoon.com/dealmoon/3c8/9fb/213/e15b674c38be73acfddf186.png_300_300_2_cfc9.png",
+            "infoList":"ペット用アイテムが 30% Off;$35 以上のお買い上げで送料無料",
+            "link":"https://www.petco.com/shop/en/petcostore/category/top-deals/dog-deals/pet-life-sale?cm_mmc=PSH-_-CNX-_-CCY-_-PME-_-PET-_-AQU-_-0-_-CONNEXITYSHOPPING-_-Product_Listing_Ads-_-0",
+            "reference":"PETCO",
+            "tag":"other",
+            "itemList":[]
+        },
+        {
+            "title":"Safavieh Tulum Collection の Boho Moroccan マットレス 5'3" ^ 7'6"",
+            "subtitle":"セール + 送料無料",
+            "titleImg":"https://imgcache.dealmoon.com/thumbimg.dealmoon.com/dealmoon/f7c/910/869/4e45c7038c3b585923379c6.jpg_300_300_2_bb1d.jpg",
+            "infoList": "Amazon より Safavieh のマットレスが最大値下げ $18.19～;送料無料",
+            "link":"https://www.amazon.com/gp/product/B082LHW3D4?ascsubtag=e96d2f55c86d49bcc21d6bd1461b7e55_US_i_-_OE_-_P_2161269_1206348903_no_refer&tag=dealmoon-20",
+            "reference":"Amazon",
+            "tag":"other",
+            "itemList":[
+                {
+                    "img":"https://imgcache.dealmoon.com/thumbimg.dealmoon.com/dealmoon/fb5/092/b2a/3bb6fba5f0fe92979528149.jpg_300_300_2_0511.jpg",
+                    "o_price":52.22,
+                    "price":39.19,
+                    "link":"https://www.amazon.com/gp/product/B073Q6N1CY?ascsubtag=39212b2986e9e81e14588df3989bc51c_US_i_-_OE_-_P_2161269_1206348903_no_refer&psc=1&tag=dealmoon-20"
+                },
+                {
+                    "img":"https://imgcache.dealmoon.com/thumbimg.dealmoon.com/dealmoon/287/fbc/cd0/4393d0cddd1f44bea96c414.jpg_300_300_2_d044.jpg",
+                    "o_price":85.45,
+                    "price":64.39,
+                    "link":"https://www.amazon.com/gp/product/B081G77JBN?ascsubtag=30cf0774350d3d5120047007a47b790e_US_i_-_OE_-_P_2161269_1206348903_no_refer&psc=1&tag=dealmoon-20"
+                },
+                {
+                    "img":"https://imgcache.dealmoon.com/thumbimg.dealmoon.com/dealmoon/80c/d38/a7b/1d0015ba6150eb49ee3bd05.jpg_300_300_2_04bf.jpg",
+                    "o_price":62.92,
+                    "price":46.89,
+                    "link":"https://www.amazon.com/gp/product/B082LJ8HZK?ascsubtag=d4bad17b4bed9558af886765497b6797_US_i_-_OE_-_P_2161269_1206348903_no_refer&psc=1&tag=dealmoon-20"
+                }
+            ]
+        }
+       {
             "title":"Cole Haan セール",
             "subtitle":"最大 70% Off + 更に 10% Off",
             "titleImg":"https://imgcache.dealmoon.com/thumbimg.dealmoon.com/dealmoon/ffa/b23/b92/45bd69be86cb9d1238f3d58.jpg_300_300_2_59a8.jpg",
