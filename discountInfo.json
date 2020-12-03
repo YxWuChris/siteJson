@@ -1,4 +1,33 @@
 [
+        {
+            "title":"Sephora beauty セール",
+            "subtitle":"最大 $25 Off",
+            "titleImg":"https://imgcache.dealmoon.com/thumbimg.dealmoon.com/dealmoon/adb/a4e/9b5/9dbaf55637dc94cdeeabac1.png_600_600_2_9904.png",
+            "infoList":"[2020SAVE]こちらのクーポンコードで $75 以上のお買い上げで $25 Off;[FREESHIP]こちらのクーポンコードで送料無料;全てのオーダーに2つ無料サンプルプレゼント",
+            "link":"https://www.sephora.com/?om_mmc=aff-linkshare-redirect-Jv*v1/Wldzg&c3ch=Linkshare&c3nid=Jv*v1/Wldzg&affid=Jv.v1_Wldzg-kyEDWdzOsRbM8t6Q.BvZpw&ranEAID=Jv*v1/Wldzg&ranMID=2417&ranSiteID=Jv.v1_Wldzg-kyEDWdzOsRbM8t6Q.BvZpw&ranLinkID=10-1&browserdefault=true",
+            "reference":"Sephora",
+            "tag":"makeup", 
+            "itemList":[
+                {
+                    "img":"https://imgcache.dealmoon.com/thumbimg.dealmoon.com/dealmoon/167/541/b71/1be306c2095b7758022bb49.jpg_300_300_2_318f.jpg",
+                    "o_price":80.00,
+                    "price":55.00,
+                    "link":"https://www.sephora.com/product/n5-l-eau-P412038?skuId=1837970&om_mmc=aff-linkshare-redirect-Jv*v1/Wldzg&c3ch=Linkshare&c3nid=Jv*v1/Wldzg&affid=Jv.v1_Wldzg-XTJqMN6P.L5mLIbi.CxH2g&ranEAID=Jv*v1/Wldzg&ranMID=2417&ranSiteID=Jv.v1_Wldzg-XTJqMN6P.L5mLIbi.CxH2g&ranLinkID=10-1&browserdefault=true"
+                },
+                {
+                    "img":"https://imgcache.dealmoon.com/thumbimg.dealmoon.com/dealmoon/4ab/bd5/eca/57482f63c05e4e4de16784d.jpg_300_300_2_c114.jpg",
+                    "o_price":99.00,
+                    "price":74.00,
+                    "link":"https://www.sephora.com/product/pitera-first-experience-kit-P447773?om_mmc=aff-linkshare-redirect-Jv*v1/Wldzg&c3ch=Linkshare&c3nid=Jv*v1/Wldzg&affid=Jv.v1_Wldzg-YZeYEX5Yar0zOU5EYVDWKw&ranEAID=Jv*v1/Wldzg&ranMID=2417&ranSiteID=Jv.v1_Wldzg-YZeYEX5Yar0zOU5EYVDWKw&ranLinkID=10-1&browserdefault=true"
+                },
+                {
+                    "img":"https://imgcache.dealmoon.com/thumbimg.dealmoon.com/dealmoon/28d/ec3/d35/2d775295ce700c78ab0f036.jpg_300_300_2_7054.jpg",
+                    "o_price":80.00,
+                    "price":55.00,
+                    "link":"https://www.sephora.com/product/tom-ford-soleil-blanc-shimmering-body-oil-lip-color-sheer-set-P464301?om_mmc=aff-linkshare-redirect-Jv*v1/Wldzg&c3ch=Linkshare&c3nid=Jv*v1/Wldzg&affid=Jv.v1_Wldzg-e55JBjp9u.ByBT5_zYsoEw&ranEAID=Jv*v1/Wldzg&ranMID=2417&ranSiteID=Jv.v1_Wldzg-e55JBjp9u.ByBT5_zYsoEw&ranLinkID=10-1&browserdefault=true"
+                }
+            ]
+       },
        {
             "title":"FARFETCH より KENZO が大セール中",
             "subtitle":"最大 50% Off",
