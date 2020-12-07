@@ -1,4 +1,53 @@
 [
+          {
+            "title":"Nintendo Switch セール",
+            "subtitle":"最大値下げ $29.99～",
+            "titleImg":"https://imgcache.dealmoon.com/thumbimg.dealmoon.com/dealmoon/747/5c4/9b5/d7959d0fd05f03fe87f9019.jpg_600_600_2_b07c.jpg",
+            "infoList":"P.C. Richard & Son より Nintendo Switch がセール中;$49 以上のお買い上げで送料無料",
+            "link":"https://www.pcrichard.com/Nintendo/Super-Mario-Odyssey-for-Nintendo-Switch/045496590741.pcrp?utm_source=dealmoon.com&utm_medium=Affiliate&utm_campaign=www.pcrichard.com&cjevent=34adf4d338e011eb82d000190a1c0e13",
+            "reference":"P.C. Richard & Son",
+            "tag":"other", 
+            "itemList":[
+                {
+                    "img":"https://imgcache.dealmoon.com/thumbimg.dealmoon.com/dealmoon/c84/8d4/cbc/b86b0a4ead831165ded7de1.jpg_300_300_2_fed7.jpg",
+                    "o_price":59.99,
+                    "price":29.99,
+                    "link":"https://www.pcrichard.com/Nintendo/Super-Mario-Odyssey-for-Nintendo-Switch/045496590741.pcrp?utm_source=dealmoon.com&utm_medium=Affiliate&utm_campaign=www.pcrichard.com&cjevent=2781fbc638e111eb80aa001b0a1c0e0e"
+                },
+                {
+                    "img":"https://imgcache.dealmoon.com/thumbimg.dealmoon.com/dealmoon/d1c/eac/788/cf529df0ec068f840e46bda.jpg_300_300_2_fc9d.jpg",
+                    "o_price":59.99,
+                    "price":29.99,
+                    "link":"https://www.pcrichard.com/Nintendo/New-Super-Mario-Bros-U-Deluxe-for-Nintendo-Switch/045496592691.pcrp?utm_source=dealmoon.com&utm_medium=Affiliate&utm_campaign=www.pcrichard.com&cjevent=400e59a438e111eb81d400150a1c0e0c"
+                },
+                {
+                    "img":"https://imgcache.dealmoon.com/thumbimg.dealmoon.com/dealmoon/bff/c5d/246/2cc31a002806379de3b97b7.jpg_300_300_2_1669.jpg",
+                    "o_price":59.99,
+                    "price":29.99,
+                    "link":"https://www.pcrichard.com/Nintendo/Mario-Tennis-Aces-for-Nintendo-Switch/045496592639.pcrp?utm_source=dealmoon.com&utm_medium=Affiliate&utm_campaign=www.pcrichard.com&cjevent=5b779b8638e111eb81eb00190a1c0e10"
+                }
+            ]
+        },
+        {
+            "title":"HP - IPS LED FHD FreeSync Monitor",
+            "subtitle":"$119.99 まで値下げ",
+            "titleImg":"https://imgcache.dealmoon.com/thumbimg.dealmoon.com/dealmoon/965/6f1/1c3/becec32400ab4a4cb85dcae.jpg_600_600_2_2cb4.jpg",
+            "infoList": "Besy Buy より HP - IPS LED FHD FreeSync Monitor (HDMI, VGA) - Natural Silver が $119.99 (原価 $249.99);送料無料",
+            "link":"https://www.bestbuy.com/site/hp-27f-27-ips-led-fhd-freesync-monitor-hdmi-vga-natural-silver/6219205.p?skuId=6219205&irclickid=Rldx6wzrpxyLWiW0RHQK3XRkUkE1jzTlyXFI3A0&irgwc=1&ref=198&loc=PriceTrace%20LLC&acampID=0&mpid=16635",
+            "reference":"Best Buy",
+            "tag":"other",
+            "itemList":[]
+        },
+        {
+            "title":"Oculus Quest 2 — Advanced All-In-One Virtual Reality Headset",
+            "subtitle":"$299.00 まで値下げ",
+            "titleImg":"https://imgcache.dealmoon.com/thumbimg.dealmoon.com/dealmoon/20e/4b2/1be/f079eda0ada0a6d51290496.jpg_600_600_2_1a29.jpg",
+            "infoList":"Amazon より Advanced All-In-One Virtual Reality Headset が $299.00;送料無料",
+            "link":"https://www.amazon.com/gp/product/B08F7PTF53?ascsubtag=fd27c53fd36aec9dbd31e81f37f97563_US_i_-_CE_-_P_2072652_1206348903_no_refer&tag=dealmoon-20&th=1",
+            "reference":"Amazon",
+            "tag":"other",
+            "itemList":[]
+         },
          {
             "title":"NET-A-PORTER より Gucci 2020 新作アイテム",
             "subtitle":"人気商品セール中",
