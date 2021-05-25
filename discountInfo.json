@@ -29,35 +29,6 @@
             "tag":"fashion",
             "itemList":[]
            },
-           {
-            "title":"スポーツ＆フィットネス",
-            "subtitle":"おすすめアイテムセール",
-            "titleImg":"https://imgcache.dealmoon.com/thumbimg.dealmoon.com/dealmoon/bd7/a9c/344/d719a462f7a8eca37241045.jpg_600_600_2_ba45.jpg",
-            "infoList":"Amazon より Sunny Health & Fitness アイテムセール中;$25 以上のお買い上げで送料無料",
-            "link":"https://www.amazon.com/s?bbn=3407731&rh=n%3A3375251%2Cn%3A%213375301%2Cn%3A10971181011%2Cn%3A3407731%2Cp_6%3AATVPDKIKX0DER&dc&ascsubtag=2b01ee9571c836c7d094b3f140e60c29_US_i_-_OE_-_P_2114249_1206348903_no_refer&fst=as%3Aoff&qid=1603307262&rnid=331592011&tag=dealmoon-20&ref=lp_3407731_nr_p_6_0",
-            "reference":"Amazon",
-            "tag":"other", 
-            "itemList":[
-                {
-                    "img":"https://imgcache.dealmoon.com/thumbimg.dealmoon.com/dealmoon/810/4dc/7e0/cadc9e8e9a53d22da5cdc2b.jpg_300_300_2_5f17.jpg",
-                    "o_price":79.99,
-                    "price":50.24,
-                    "link":"https://www.amazon.com/dp/B0016BQFSS?ascsubtag=e21dcb6ee8cf0821bcbf03f1c4bd835f_US_i_-_OE_-_P_2114249_1206348903_no_refer&linkCode=ogi&psc=1&tag=dealmoon-20&th=1"
-                },
-                {
-                    "img":"https://imgcache.dealmoon.com/thumbimg.dealmoon.com/dealmoon/d38/c07/3bb/dc02ae39b61e185baaba6d1.jpg_300_300_2_0567.jpg",
-                    "o_price":129.00,
-                    "price":94.53,
-                    "link":"https://www.amazon.com/dp/B074B3B22G?ascsubtag=fcda0fe8ac26f53a17a955d334d4c48b_US_i_-_OE_-_P_2114249_1206348903_no_refer&linkCode=ogi&psc=1&tag=dealmoon-20&th=1"
-                },
-                {
-                    "img":"https://imgcache.dealmoon.com/thumbimg.dealmoon.com/dealmoon/89f/19c/aa7/014c9be45b312aadfd488c2.jpg_300_300_2_bed9.jpg",
-                    "o_price":199.00,
-                    "price":155.75,
-                    "link":"https://www.amazon.com/dp/B00QIM5CMK?ascsubtag=ad7fd6a3ce63f45bbffc6f23c8c856bb_US_i_-_OE_-_P_2114249_1206348903_no_refer&linkCode=ogi&psc=1&tag=dealmoon-20&th=1"
-                }
-            ]
-        },
         {
             "title":"North Face Winter アイテム",
             "subtitle":"限定レディースアイテムが全て $100 以下！",
